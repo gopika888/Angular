@@ -1,0 +1,21 @@
+.todo{
+    background-color: rgb(246, 246, 16);
+    height: 100vh;
+}
+.box{
+    width: 75%;
+    height: 500px ;
+    border-radius: 20px;
+    background-color: rgb(229, 191, 207);
+    overflow: scroll;
+}
+.inputAdd
+{
+    border-radius: 5px;
+    background-color: rgb(180, 158, 201);
+    width: 500px;
+}
+i,.inputAdd{
+    cursor: pointer;
+    color: black;
+}
