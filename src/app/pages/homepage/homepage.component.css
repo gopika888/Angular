@@ -19,7 +19,7 @@ i,.inputAdd{
     cursor: pointer;
     color: black;
 }
-.container input:checked~.checkmark {
+.compl {
     text-decoration: line-through;
     color: red;
     }

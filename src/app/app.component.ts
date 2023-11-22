@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './units/navbar/navbar.component';
 import { HomePageComponent } from './pages/homepage/homepage.component';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-root',
