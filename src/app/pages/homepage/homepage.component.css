@@ -19,3 +19,11 @@ i,.inputAdd{
     cursor: pointer;
     color: black;
 }
+.container input:checked~.checkmark {
+    text-decoration: line-through;
+    color: red;
+    }
+    input[type=checkbox]:checked + p.strikethrough {
+        text-decoration: line-through;
+        color:red;
+    }
